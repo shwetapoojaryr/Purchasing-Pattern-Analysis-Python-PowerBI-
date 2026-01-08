@@ -1,37 +1,6 @@
 # Analysing-Purchasing-Patterns-for-Strategic-Business-Insights-
 
-one line summary
-
-overview
-A  retail company is looking to understand its customer’s purchasing behavior and demographic trends. The company has provided two datasets: purchase data (containing information about orders) and customer data
-(containing customer demographic details). The goal is to derive actionable insights from these datasets.
-
-Problem Statement:
-
-The company wants to address the following business questions: 
-
-1. Which products contribute the most to revenue, and how can discounts and shipping costs be optimised?
-
-2. Are there any patterns in customer demographics (age, income, and country) that influence purchasing behavior?
-   
-3. Is there a significant difference in income or purchasing habits between genders?
-
-4. Can the shipping process be optimized by analysing shipping costs and durations? 
-
-5. How strongly does customer income correlate with their purchasing behavior?
-
-datasets
-
-[Customer](https://github.com/shwetapoojaryr/Purchasing-Pattern-Analysis-Python-PowerBI-/blob/main/customer.csv)
-[Puchase](https://github.com/shwetapoojaryr/Purchasing-Pattern-Analysis-Python-PowerBI-/blob/main/purchase.csv)
-
-tools and technologies
-
-<!--
-# Customer-Shopping-Behaviour-Analysis
-
-<!--
-Analysed employee performance and retention patterns using HR data to uncover factors influencing productivity, engagement, and employee tenure, to help organizations reduce turnover and improve workforce efficiency through data-driven insights using Python, Jupyter Notebook, and Power BI.
+Retail analysis using Python to identify revenue drivers, customer segments, and shipping optimization strategies through statistical analysis and visualization using Mayplotlib, Seaborn, and Power BI.
 
 ## Table of Contents
 - <a herf = "#overview">Overview</a>
@@ -50,20 +19,25 @@ Analysed employee performance and retention patterns using HR data to uncover fa
 - <a herf = "#author--contact">Author & Contact</a>
 
 <h2><a class="anchor" id="overview"></a> Overview</h2>
-
+A  retail company is looking to understand its customer’s purchasing behavior and demographic trends. The company has provided two datasets: purchase data (containing information about orders) and customer data
+(containing customer demographic details). The goal is to derive actionable insights from these datasets.
 
 <h2><a class = "anchor" id="business-problem"></a>Business Problem</h2>
 
+1. Which products contribute the most to revenue, and how can discounts and shipping costs be optimised?
 
+2. Are there any patterns in customer demographics (age, income, and country) that influence purchasing behavior?
+   
+3. Is there a significant difference in income or purchasing habits between genders?
+
+4. Can the shipping process be optimized by analysing shipping costs and durations? 
+
+5. How strongly does customer income correlate with their purchasing behavior?
 
 <h2><a class ="anchor" id ="dataset"></a>Dataset</h2>
 
-[Employee Dataset](https://github.com/shwetapoojaryr/Employee-Performance---Retention-Analysis-Python-PowerBI/blob/main/employees_dataset.csv)
-
-- Rows: 17417
-- Columns: 13
-- Key Features :  Employee Identifier (employee_id), Organizational Attributes (department, region), Demographic Features (education, gender, age), Recruitment Information (recruitment_channel), Training & Development (avg_training_score, no_of_trainings), Performance Metrics (KPIs_met_more_than_80, previous_year_rating), Recognition & Experience (length_of_service,  awards_won)
-- Missing Data: 771 values in education column & 1363 in previous_year_rating column. 
+[Customer](https://github.com/shwetapoojaryr/Purchasing-Pattern-Analysis-Python-PowerBI-/blob/main/customer.csv)
+[Puchase](https://github.com/shwetapoojaryr/Purchasing-Pattern-Analysis-Python-PowerBI-/blob/main/purchase.csv) 
 
 <h2><a class ="anchor" id ="tools--technologies"></a>Tools and Technologies</h2>
 
@@ -74,9 +48,9 @@ Analysed employee performance and retention patterns using HR data to uncover fa
 - Power BI (Interactive Visualisations)
 
 - GitHub
-
+<!--
 <h2><a class="anchor" id ="project-structure"></a>Project Structure</h2>
-
+-->
 
 <h2><a class="anchor" id ="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
