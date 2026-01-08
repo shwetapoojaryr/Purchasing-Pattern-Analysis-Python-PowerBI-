@@ -50,7 +50,7 @@ A  retail company is looking to understand its customer’s purchasing behavior 
 - GitHub
 <!--
 <h2><a class="anchor" id ="project-structure"></a>Project Structure</h2>
--->
+
 
 <h2><a class="anchor" id ="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
